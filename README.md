@@ -10,6 +10,6 @@
 ## Find me on:
 
 <p align="center">
- <a href="https://daxxxis.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://daxxxis.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="40" style="vertical-align:top; margin:4px; color:blue"> </a>
  <a href="mailto:d.czupryn@outlook.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
