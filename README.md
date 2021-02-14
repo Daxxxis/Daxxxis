@@ -11,8 +11,11 @@
 
 <p align="center">
 <img src=flags/pl.svg alt="Poland" height="40">
+ 
 <img src=flags/gb.svg alt="United Kingdom" height="40">
+ 
 <img src=flags/um.svg alt="United States" height="40">
+ 
 <img src=flags/cz.svg alt="Czechia" height="40">
 </p>
 
