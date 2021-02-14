@@ -3,8 +3,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
   
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
-<img src="https://icon-library.com/images/css3-icon/css3-icon-28.jpg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="Web" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" height="40" style="vertical-align:top; margin:4px">
 
