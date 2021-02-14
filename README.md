@@ -2,4 +2,6 @@
 
 - 🌱 I’m currently learning: C++, HTML + CSS + PHP
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daxxxis)](https://github.com/anuraghazra/github-readme-stats)
+![Damian's stats](https://github-readme-stats.vercel.app/api?username=Daxxxis&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&bg_color=0,141321,4E1E3C&hide_title=false&hide_border=true&cache_seconds=1800)
+
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Daxxxis&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&bg_color=0,141321,4E1E3C&hide_title=false&hide_border=true&cache_seconds=1800)
