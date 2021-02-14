@@ -2,21 +2,21 @@
 
 ## My Languages:
 <p align="center">
-<img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++" height="40">
+<img src="images/languages/cpp.png" alt="C++" height="40">
  
-<img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="Web" height="40">
+<img src="images/languages/web.png" alt="Web" height="40">
  
-<img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" height="40">
+<img src="images/languages/php.svg" alt="PHP" height="40">
 </p>
 
 <p align="center">
-<img src=flags/pl.svg alt="Poland" height="40">
+<img src=images/flags/pl.svg alt="Poland" height="40">
  
-<img src=flags/gb.svg alt="United Kingdom" height="40">
+<img src=images/flags/gb.svg alt="United Kingdom" height="40">
  
-<img src=flags/um.svg alt="United States" height="40">
+<img src=images/flags/um.svg alt="United States" height="40">
  
-<img src=flags/cz.svg alt="Czechia" height="40">
+<img src=images/flags/cz.svg alt="Czechia" height="40">
 </p>
 
 ## Stats
