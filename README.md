@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-## My Languages:
+## Languages I use:
 <p align="center">
 <img src="images/languages/cpp.png" alt="C++" height="40">
  
